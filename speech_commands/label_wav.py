@@ -34,7 +34,7 @@ from __future__ import print_function
 import argparse
 import sys
 
-import tflite_runtime.interpreter as tflite
+import tflite_runtime.interpreter as tf
 
 
 FLAGS = None
