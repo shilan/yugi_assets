@@ -1,0 +1,7 @@
+_silence_
+_unknown_
+left
+right
+stop
+go
+backward
